@@ -1,9 +1,0 @@
-name: "Marina-Antillon"
-output_dir: to_publish
-navbar:
-  title: "Marina Antillon"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html

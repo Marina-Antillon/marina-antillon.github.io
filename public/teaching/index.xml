@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/teaching/</link>
+    <description>Recent content in Teaching on Hugo Academic CV Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn JavaScript</title>
+      <link>http://localhost:4321/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/js/</guid>
+      <description>Easily learn JavaScript in 10 minutes!</description>
+    </item>
+    <item>
+      <title>Learn Python</title>
+      <link>http://localhost:4321/teaching/python/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/python/</guid>
+      <description>Easily learn Python in 10 minutes!</description>
+    </item>
+  </channel>
+</rss>

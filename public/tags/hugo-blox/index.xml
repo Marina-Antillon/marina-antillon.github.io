@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox on Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/hugo-blox/</link>
+    <description>Recent content in Hugo Blox on Hugo Academic CV Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎉 Easily create your own simple yet highly customizable blog</title>
+      <link>http://localhost:4321/post/get-started/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/get-started/</guid>
+      <description>Take full control of your personal brand and privacy by migrating away from the big tech platforms!</description>
+    </item>
+    <item>
+      <title>📈 Communicate your results effectively with the best data visualizations</title>
+      <link>http://localhost:4321/post/data-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/data-visualization/</guid>
+      <description>Use popular tools such as Plotly, Mermaid, and data frames.</description>
+    </item>
+    <item>
+      <title>✅ Manage your projects</title>
+      <link>http://localhost:4321/post/project-management/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/project-management/</guid>
+      <description>Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!</description>
+    </item>
+  </channel>
+</rss>

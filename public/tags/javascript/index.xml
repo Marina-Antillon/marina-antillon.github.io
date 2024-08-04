@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/javascript/</link>
+    <description>Recent content in JavaScript on Hugo Academic CV Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn JavaScript</title>
+      <link>http://localhost:4321/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/js/</guid>
+      <description>Easily learn JavaScript in 10 minutes!</description>
+    </item>
+  </channel>
+</rss>

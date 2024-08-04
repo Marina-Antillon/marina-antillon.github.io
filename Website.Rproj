@@ -15,4 +15,4 @@ LaTeX: pdfLaTeX
 AutoAppendNewline: Yes
 
 BuildType: Website
-WebsitePath: to_publish
+WebsitePath: ~/Library/CloudStorage/Dropbox/My Drive in Dropbox/Consulting Independently/Website
