@@ -1,5 +1,5 @@
 name: "Marina-Antillon"
-output_dir: to_publish
+output_dir: docs
 navbar:
   title: "Marina Antillon"
   left:
