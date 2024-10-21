@@ -1,0 +1,10 @@
+<li> Soledad Colombe, Eri Togami, Fkadu Gelaw, __Marina Antillon__, Rodrigo Fuentes, Daniel M. Weinberger. _Trends and correlates of cystic echinococcosis in Chile: 2001-2012._ PLoS Neglected Tropical Diseases 11, no. 9 (2017): e0005911.  
+  <a href="https://doi.org/10.1371/journal.pntd.0005911" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>
+
+
+

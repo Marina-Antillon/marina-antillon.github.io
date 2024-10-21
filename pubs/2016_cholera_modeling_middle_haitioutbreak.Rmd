@@ -1,0 +1,12 @@
+<li> Joseph A. Lewnard, __Marina Antillon__, Gregg Gonsalves, Alice M. Miller, Albert I. Ko, and  Virginia E. Pitzer. _Strategies to Prevent Cholera Introduction during International Personnel Deployments: A Computational Modeling Analysis Based on the 2010 Haiti Outbreak._ PLoS Medicine 13, no. 1 (2016): e1001947.  
+  <a href="https://doi.org/10.1371/journal.pmed.1001947" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+  <a href="https://github.com/joelewnard/choleraHaiti" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-code"> </i> Code
+    </button>
+  </a>
+</li>

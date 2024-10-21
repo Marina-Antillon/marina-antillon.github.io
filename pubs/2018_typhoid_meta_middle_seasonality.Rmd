@@ -1,0 +1,10 @@
+<li> Zoë Pieters, Neil J. Saad, __Marina Antillon__, Virginia E. Pitzer, and Joke Bilcke. _Case fatality rate of enteric fever in endemic countries: A systematic review and meta-analysis._ Clinical Infectious Diseases 67, no. 4 (2018): 628-638.  
+  <a href="https://doi.org/10.1093/cid/ciy190" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>
+
+
+

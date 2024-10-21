@@ -88,30 +88,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Antillon Insights: About</title>
+  <title>Antillon Insights: Resources</title>
 
-  <meta property="description" itemprop="description" content="Marina Antillon, PhD."/>
 
   <link rel="icon" type="image/vnd.microsoft.icon" href="images/favicon.ico"/>
 
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2024-10-21"/>
+  <meta property="article:created" itemprop="dateCreated" content="2024-10-21"/>
+  <meta name="article:author" content="Marina Antillon"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Antillon Insights: About"/>
+  <meta property="og:title" content="Antillon Insights: Resources"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Marina Antillon, PhD."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Antillon Insights"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Antillon Insights: About"/>
-  <meta property="twitter:description" content="Marina Antillon, PhD."/>
+  <meta property="twitter:title" content="Antillon Insights: Resources"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["About"]},{"type":"character","attributes":{},"value":["Marina Antillon, PhD."]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Resources"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Marina Antillon"]}]}]},{"type":"character","attributes":{},"value":["2024-10-21"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2721,7 +2722,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"About","description":"Marina Antillon, PhD.","authors":[]}
+{"title":"Resources","authors":[{"author":"Marina Antillon","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2024-10-21T00:00:00.000+02:00","citationText":"Antillon, 2024"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2778,52 +2779,103 @@ Blog
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>About</h1>
+<h1>Resources</h1>
 
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Marina Antillon, PhD.</p></p>
+
 </div>
 
+<div class="d-byline">
+  
+  Marina Antillon
+  
+<br/>2024-10-21
+</div>
 
 <div class="d-article">
-<p>I am an analyst at the intersection of public health, data sciences, and decision analysis. I have worked extensively in simulation-based health economics of strategies to control and eliminate infectious diseases.</p>
-<p>My methodological interests lie in transmission and Markov models of disease, as well as decision-making under probabilistic and structural uncertainty. I have disease-area expertise in typhoid fever, respiratory syncytial virus (RSV), and human African trypanosomiasis (HAT), as well as experience in tuberculosis, cholera, and sleep behaviours. I also have experience teaching small seminars in statistics and health economics.</p>
-<p>I am open to work in public health (all disease areas), in particular in epidemiology and health economics and outcomes research (HEOR). If my methodological experience can be of use, I would also be interested in working on data analysis of social and environmental phenomena.</p>
-<p>For a description of my professional activities, see <a href="services.html">services</a>.<br />
-For inquiries <a href="contact.html">contact me</a>.<br />
-For a list of publications, <a href="publications.html">click here</a>.<br />
-For a CV, <a href="CV_Website_Antillon.pdf">click here</a>.</p>
-<h1 id="education">Education</h1>
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
 <ul>
-<li>PhD in Epidemiology of Microbial Diseases (Yale University, 2017)
+<li><a href="#statistics">Statistics</a></li>
+<li><a href="#epidemiology">Epidemiology</a>
 <ul>
-<li>Dissertation: Synthesizing evidence on typhoid fever epidemiology to inform policy on novel conjugate vaccines. (Advisor: Prof. Virginia Pitzer)</li>
+<li><a href="#disease-transmission-modeling">Disease transmission modeling</a></li>
 </ul></li>
-<li>BA in Environmental Studies; Minor in Statistics (University of Chicago, 2010)
+<li><a href="#health-economics-decisions-under-uncertainty">Health economics + decisions under uncertainty</a></li>
+<li><a href="#costing">Costing</a></li>
+<li><a href="#r">R</a></li>
+<li><a href="#stata">Stata</a></li>
+<li><a href="#other">Other</a></li>
+</ul>
+</nav>
+</div>
+<p>This is a list of things I have found useful. Count this as a mild endorsement.</p>
+<p><strong>Use of these resources does not guarantee correct results. If in doubt, contact your institutional statistical, epidemiology, or health economic specialist.</strong></p>
+<p>You can <a href="contact%20me">contact me</a>, and while I aim to answer all questions, I cannot guarantee a timely response.</p>
+<h1 id="statistics">Statistics</h1>
 <ul>
-<li>Thesis: Season as a modifier of social disparities in adult mortality. (Advisor: Prof. Diane Lauderdale)</li>
+<li>German Rodriguez at Princeton: <a href="https://grodri.github.io" class="uri">https://grodri.github.io</a></li>
+<li>Reporting ANOVA and t-test results:
+<ul>
+<li><a href="https://doi.org/10.7554/eLife.36163.001" class="uri">https://doi.org/10.7554/eLife.36163.001</a> (see boxes)<br />
+</li>
+<li>SAMPL guidelines</li>
 </ul></li>
 </ul>
-<h1 id="location">Location</h1>
-<p>I am based in Liestal, Switzerland, in the canton of Basel-land.<br />
-I often work with international clients.</p>
-<h1 id="computational-skills">Computational skills</h1>
+<h1 id="epidemiology">Epidemiology</h1>
 <ul>
-<li>R (data analysis, simulation, mapping, Rmarkdown, and Shiny apps)</li>
-<li>Matlab (data analysis, simulations, mapping)</li>
-<li>Bayesian sampling software: JAGS, Stan</li>
-<li>Stata (data analysis)</li>
-<li>Latex (including tikz)</li>
-<li>Git</li>
-<li>High-performance or cloud computing
+<li>Leon Gordis book</li>
+<li>Any other articles</li>
+</ul>
+<h2 id="disease-transmission-modeling">Disease transmission modeling</h2>
+<p>This is the field that motivated me since undergrad and took me to grad school. This is to be brief, but I have a lot of thoughts on this.<br />
++ MIDAS network<br />
++ SIMID school<br />
++ Yale Summer School<br />
++ UAntwerp course<br />
++ Links: AAking, MFIID course in London: <a href="https://sbfnk.github.io/mfiidd/index.html" class="uri">https://sbfnk.github.io/mfiidd/index.html</a></p>
+<h1 id="health-economics-decisions-under-uncertainty">Health economics + decisions under uncertainty</h1>
 <ul>
-<li>slurm schedulers</li>
-<li>parallelization in high-performance computer clusters</li>
-<li>basic familiarity with AWS</li>
+<li>Briggs book</li>
+<li>Some articles</li>
 </ul>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div></li>
+<h1 id="costing">Costing</h1>
+<ul>
+<li>Articles</li>
 </ul>
+<h1 id="r">R</h1>
+<ul>
+<li>R blogs</li>
+<li>Rmarkdown books</li>
+</ul>
+<h1 id="stata">Stata</h1>
+<ul>
+<li>Stata for health researchers</li>
+<li>This is a duplicate, but here too German Rodriguez’s site deserves mention: <a href="https://grodri.github.io" class="uri">https://grodri.github.io</a></li>
+</ul>
+<h1 id="other">Other</h1>
+<ul>
+<li>Teaching individuals with learning differences (from the University of Basel): <a href="https://tales.nmc.unibas.ch/en/barrierefreiheit-im-digitalen-unterricht-und-studium-33/">in English</a>, <a href="https://tales.nmc.unibas.ch/de/barrierefreiheit-im-digitalen-unterricht-und-studium-33/">in German</a></li>
+<li>Belgian-American Education Foundation fellowship (I will write about my experience with the program when I get a chance): <a href="https://baef.be/">BAEF</a>
+<ul>
+<li>Fellowships to do one* year of graduate study or research exchange for Americans (citizens or permanent residents) and Beligians (Nationals). (*Two years for Belgians seeking an MBA in the US).</li>
+</ul></li>
+<li>Living in Switzerland
+<ul>
+<li>A blog I often found useful about the Basel area: <a href="https://www.lifeinbasel.com">Life in Basel</a></li>
+<li>Really comprehensive guide for Switzerland in general: <a href="https://www.ch.ch/en/">ch.ch</a></li>
+<li>Guide to moving to Basel-land specifically: <a href="https://www.hallo-baselland.ch/">Hallo Basel-land</a></li>
+<li>Comparison shopping API in Switzerland: <a href="https://en.comparis.ch">Comparis</a>
+<ul>
+<li>I am linking to the English site, but on the top right you can switch to other languages.</li>
+</ul></li>
+</ul></li>
+<li>Task management</li>
+<li>Why quitting is sometimes the right thing to go</li>
+</ul>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

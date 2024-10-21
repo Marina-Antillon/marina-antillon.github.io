@@ -1,5 +1,40 @@
 ---
-title: "About This Website"
+title: "About"
+description: | 
+  Marina Antillon, PhD.
 ---
 
-More about this website.
+I am an analyst at the intersection of public health, data sciences, and decision analysis. I have worked extensively in simulation-based health economics of strategies to control and eliminate infectious diseases. 
+
+My methodological interests lie in transmission and Markov models of disease, as well as decision-making under probabilistic and structural uncertainty. I have disease-area expertise in typhoid fever, respiratory syncytial virus (RSV), and human African trypanosomiasis (HAT), as well as experience in tuberculosis, cholera, and sleep behaviours. I also have experience teaching small seminars in statistics and health economics.
+
+I am open to work in public health (all disease areas), in particular in epidemiology and health economics and outcomes research (HEOR). If my methodological experience can be of use, I would also be interested in working on data analysis of social and environmental phenomena.
+
+For a description of my professional activities, see [services](services.html).  
+For inquiries [contact me](contact.html).  
+For a list of publications, [click here](publications.html).  
+For a CV, [click here](CV_Website_Antillon.pdf).  
+
+# Education
+
+ - PhD in Epidemiology of Microbial Diseases (Yale University, 2017)
+    + Dissertation: Synthesizing evidence on typhoid fever epidemiology to inform policy on novel conjugate vaccines. (Advisor: Prof. Virginia Pitzer)
+ - BA in Environmental Studies; Minor in Statistics (University of Chicago, 2010) 
+    + Thesis: Season as a modifier of social disparities in adult mortality. (Advisor: Prof. Diane Lauderdale)
+
+# Location
+
+I am based in Liestal, Switzerland, in the canton of Basel-land.  
+I often work with international clients.
+
+# Computational skills  
++ R (data analysis, simulation, mapping, Rmarkdown, and Shiny apps)
++ Matlab (data analysis, simulations, mapping)
++ Bayesian sampling software: JAGS, Stan
++ Stata (data analysis)
++ Latex (including tikz)
++ Git
++ High-performance or cloud computing
+  - slurm schedulers
+  - parallelization in high-performance computer clusters
+  - basic familiarity with AWS

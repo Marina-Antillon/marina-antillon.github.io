@@ -1,0 +1,15 @@
+---
+title: "Colophon"
+---
+
+I designed this website using the Distill for R Markdown package in RStudio. The sourcecode can be found in the following [Github Repository](https://github.com/Marina-Antillon/marina-antillon.github.io). 
+
+# Style and Typography
+I created the style sheet for a dark theme, feel free to copy/lift any of it. The fonts are from Google Fonts and are all open source. The body is "Titillium Web", titles are "Mate SC", and headers are a mix of "Mate SC" and "Mate". Mathematical expressions are typeset using "Crimson Text" and code is typeset using "Courier Prime". Icons come from "Font Awesome 6 Brands", the standard for Distill websites. 
+
+I designed the logo using tikz for latex. 
+
+# Contact Page
+The contact page was created using a Google Form. 
+
+If you find a problem with this site, please [contact me](contact.html).

@@ -1,0 +1,27 @@
+<li> __Marina Antillon__, Ching-I Huang, Samuel A. Sutherland, Ronald E. Crump, Paul E. Brown, Paul R. Bessell, Emily H. Crowley, Rian Snĳders, Andrew Hope, Iñaki Tirados, Sophie Dunkley, Paul Verlé, Junior Lebuki, Chansy Shampa, Erick Mwamba Miaka, Fabrizio Tediosi, Kat S. Rock. _Cost-effectiveness of end-game strategies against sleeping sickness across the Democratic Republic of Congo._ medRxiv 2024.03.29.24305066.  
+<a href="https://doi.org/10.1101/2024.03.29.24305066" style="margin-left: 0.5em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-arrow-up-right-from-square"> </i> medXiv
+    </button>
+</a>
+<a href="https://hatmepp.warwick.ac.uk/DRCCEA/v6/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-laptop"> </i> Dashboard/GUI
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepppublications/hat_mepp_drc_whole_country_cea_mar2024_summ_en.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (EN)
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepppublications/hat_mepp_drc_whole_country_cea_mar2024_summ_fr.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (FR)
+    </button>
+</a>
+<a href="https://osf.io/ezjxb/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-code"> </i> Code
+    </button>
+</a>
+</li>

@@ -1,0 +1,10 @@
+<li> AMatthew Phelps, Andrew S. Azman, Joseph A. Lewnard, __Marina Antillon__, Lone Simonsen, Viggo Andreasen,  Peter K. M. Jensen, Virginia E. Pitzer. _The importance of thinking beyond the water-supply in cholera epidemics: a historical urban case-study._ PLoS Neglected Tropical Diseases 11, no. 11 (2017): e0006103.  
+  <a href="https://doi.org/10.1371/journal.pntd.0006103" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>
+
+ 
+

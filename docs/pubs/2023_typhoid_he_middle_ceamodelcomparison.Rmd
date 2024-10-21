@@ -1,0 +1,12 @@
+<li> Holly Burrows, __Marina Antillon__, Jillian S. Gauld, Jong-Hoon Kim, Vittal Mogasale, Theresa Ryckman, Jason R. Andrews, Nathan C. Lo, and Virginia E. Pitzer. _Comparison of model predictions of typhoid conjugate vaccine public health impact and cost-effectiveness._ Vaccine 41, no. 4 (2023): 965-975.   
+  <a href="https://doi.org/10.1016/j.vaccine.2022.12.032" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+  <a href="https://www.coalitionagainsttyphoid.org/the-models-confirm-tcvs-are-cost-effective/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-newspaper"> </i> Press release
+    </button>
+  </a>
+</li>

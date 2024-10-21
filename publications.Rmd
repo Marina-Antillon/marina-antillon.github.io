@@ -1,0 +1,34 @@
+---
+title: "Publications & Press"
+# bibliography: AntillonWorksORCID7Sep2024.bib
+# nocite: '@*'
+---
+# Select
+
+# All
+- For all publications in reverse chronological order [click here](publications_all.html), including related summaries, commentaries, press releases, and code.
+
+<!-- # Subsets -->
+<!-- Do this with buttons? -->
+<!-- ## By disease area -->
+<!-- - For typhoid publications, [click here](publications_typhoid.html).   -->
+<!-- - For human African trypanosomiasis (HAT) publications, [click here](publications_hat.html).   -->
+<!-- - For RSV publications, [click here](publications_rsv.html).   -->
+<!-- - For Covid-19 publications, [click here](publications_covid.html).   -->
+<!-- - For publications on other diseases, [click here](publications_otherdis.html).   -->
+
+<!-- ## By methodological approach -->
+<!-- Some publications span more than one  -->
+<!-- - For transmission modeling publications, [click here](publications_transmission.html).  -->
+<!-- - For burden modeling publications, [click here](publications_burden.html).   -->
+<!-- - For other epidemiology publications (regression-based modeling), [click here](publications_otherepi.html).   -->
+<!-- - For health economic publications, [click here](publications_healthecon.html).   -->
+<!-- - For meta-regression and meta-analysis publications, [click here](publications_meta.html).   -->
+<!-- - For other publications, [click here](publications_othermethods.html).   -->
+
+<!-- ## By authorship -->
+<!-- - For first-author publications, [click here](publications_first.html).   -->
+<!-- - For senior-author publications, [click here](publications_senior.html).   -->
+<!-- - For other publications, [click here](publications_senior.html).   -->
+
+<!-- **Any other press or reports?** -->

@@ -1,0 +1,12 @@
+ <li> Yuling Lin, Alexandra Walker, Marguerite Batta, Sierra Ottilie-Kovelman, Anna Duchenko, Curdin Brugger, Olivia Keiser, Robert S. Wallis, Klaus Reither, Fabrizio Tediosi, __Marina Antillon__. _The economic burden of chronic obstructive pulmonary disease and post-tuberculosis sequelae in low- and middle-income countries: a database compiled from a systematic review and meta-analysis._ BMJ Public Health 2024; 2:e000441.  
+  <a href="https://doi.org/10.1136/bmjph-2023-000441" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+  <a href="https://github.com/Yuling862/Cost-database-of-COPD-and-post-TB" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-code"> </i> Code
+    </button>
+  </a>
+</li>

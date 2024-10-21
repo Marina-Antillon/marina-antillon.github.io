@@ -1,0 +1,15 @@
+---
+title: "Contact"
+# /* #F2E8CF; */ /* almond color */
+---
+
+<style>
+d-article iframe {
+  background-color: #F2E8CF; /* almond color */
+  width: 100%;
+  border: 1px solid rgba(1, 1, 1, 0.1);
+  border-radius: 4px; /* Rounded borders */
+}
+</style>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLxIta9UUlMFRcR7sEl9C_L9dzId4QHMUnjRB6me6xGL30EA/viewform?embedded=true" height="1175" frameborder="10" marginheight="0" marginwidth="0">Loading…</iframe>

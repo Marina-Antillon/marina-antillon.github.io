@@ -1,0 +1,27 @@
+<li> Kat S Rock, Ching-I Huang,  Ronald E Crump, Paul R Bessell,  Paul E Brown, Inaki Tirados, Philippe Solano, __Marina Antillon__, Albert Picado, Severin Mbainda, Justin Darnas, Emily H Crowley, Steve J Torr, Mallaye Peka. _Update of transmission modelling and projections of gambiense human African trypanosomiasis in the Mandoul focus, Chad._ Infectious Diseases of Poverty 11, 11 (2022).  
+  <a href="https://doi.org/10.1186/s40249-022-00934-8" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+  <a href="https://hatmepp.warwick.ac.uk/Mandoulfitandproject/v1/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-laptop"> </i> Dashboard/GUI
+    </button>
+  </a>
+  <a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/chad/mandoul_update_summary_en.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (EN)
+    </button>
+  </a>
+  <a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/chad/mandoul_update_summary_fr.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (FR)
+    </button>
+  </a>
+  <a href="https://osf.io/rak9d/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-code"> </i> Code
+    </button>
+  </a>
+</li>

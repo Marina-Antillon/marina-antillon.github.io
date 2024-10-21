@@ -1,0 +1,7 @@
+<li>  Rebecca L. Anderson, Kathleen Murray, Jessica X. Chong, Rebecca Ouwenga, __Marina Antillon__, Peixian Chen, Lorena Diaz de Leon, Kathryn J. Swoboda, Lucille A. Lester, Soma Das, Carole Ober, Darrel J. Waggoner. _Disclosure of Genetic Research Results to Members of a Founder Population._ Journal of Genetic Counseling 23, no. 6 (2014): 984-991.   
+  <a href="https://doi.org/10.1007/s10897-014-9721-8" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>

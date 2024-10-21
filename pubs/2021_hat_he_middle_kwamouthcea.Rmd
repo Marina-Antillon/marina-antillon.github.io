@@ -1,0 +1,22 @@
+<li> Christopher N. Davis, Kat S. Rock, __Marina Antillon__, Erick Mwamba Miaka, and Matt J. Keeling. _Cost-effectiveness modelling to optimise active screening strategy for gambiense human African trypanosomiasis in the Democratic Republic of Congo._ BMC Medicine 19, no. 86 (2021).  
+<a href="https://doi.org/10.1186/s12916-021-01943-4" style="margin-left: 0.5em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+</a>
+<a href="https://christopherdavis.shinyapps.io/optimising-ghat-active-screening/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-laptop"> </i> Dashboard/GUI
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/drc/hat_mepp_optimising_summary_en.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (EN)
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/drc/hat_mepp_optimising_summary_fr.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (FR)
+    </button>
+</a>
+</li>

@@ -1,0 +1,8 @@
+<li> Maryam Tavakkoli, Aliya Karim, Fabienne B Fischer, Laura Monzon, Assam Raoofi, Shamsa Zafar, Carmen Sant Fruchtman, Donald De Savigny, Amirhossein Takian A, __Marina Antillon__, Daniel Cobos. _From public health policy to impact for COVID-19: A multi-country case study in Switzerland, Spain, Iran and Pakistan._ International Journal of Public Health (2022) 67:1604969.  
+**Shared senior authorship  
+  <a href="https://doi.org/10.3389/ijph.2022.1604969" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>

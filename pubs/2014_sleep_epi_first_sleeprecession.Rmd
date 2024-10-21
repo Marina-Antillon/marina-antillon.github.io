@@ -1,0 +1,7 @@
+<li> __Marina Antillon__, Diane S. Lauderdale, and John Mullahy. _Sleep behavior and unemployment conditions._ Economics \& Human Biology 14 (2014): 22-32.  
+  <a href="https://doi.org/10.1016/j.ehb.2014.03.003" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>

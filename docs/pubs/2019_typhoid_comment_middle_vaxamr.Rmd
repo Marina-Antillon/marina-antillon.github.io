@@ -1,0 +1,8 @@
+<li> Jason R. Andrews, Stephen Baker, Florian Marks, Marcella Alsan, Denise Garrett, Bruce G. Gellin, Samir K. Saha, Farah Naz Qamar, Mohammad Tahir Yousafzai, Isaac I. Bogoch, __Marina Antillon__, Virginia E. Pitzer, Jong-Hoon Kim, Jacob John, Jillian Gauld, Vittal Mogasale, Edward T. Ryan, Stephen P. Luby, Nathan C. Lo. _Typhoid conjugate vaccines: a new tool in the fight against antimicrobial resistance._ The Lancet Infectious Diseases 19, no. 1 (2019) e26-30.
+  <a href="https://doi.org/10.1016/s1473-3099(18)30350-5" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>
+

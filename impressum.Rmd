@@ -1,0 +1,45 @@
+---
+title: "Impressum"
+---
+
+Marina Antillon, PhD.  
+Rathausstrasse 27  
+4410 Liestal  
+Switzerland  
+
+E-Mail: [antilloninsights@icloud.com](antilloninsights@icloud.com)  
+Linked-in: [https://www.linkedin.com/in/marinaantillon](https://www.linkedin.com/in/marinaantillon)
+
+<!--
+
+Need to protect the email from spam: 
+https://www.ionos.com/digitalguide/e-mail/e-mail-security/protecting-your-email-address-how-to-do-it/?srsltid=AfmBOoo-GwzCDvKdw2eqO4ApW9BOyWy41s2WDK4GRdXhP065wc_J_BLz
+
+https://www.termsfeed.com/blog/sample-impressum-template/#:~:text=Summary-,What%20is%20an%20Impressum%3F,that%20explains%20ownership%20and%20authorship.
+https://www.hostpoint.ch/en/blog/obligation-impressum/
+https://support.google.com/merchants/answer/14675634?hl=en
+https://en.support.hosttech.ch/knowledge-base/do-i-need-an-imprint/
+
+Content Imprint:
+
+Private individuals:
+
+Name / First name
+Contact address (P.O. Box is not sufficient)
+Email address: directly linked / clickable
+(Phone number: voluntary)
+(Further contact info / social media: voluntary)
+
+Legal entities:
+
+Company name according to entry in the commercial register
+(UID: voluntary)
+Contact address (P.O. Box is not sufficient)
+Email address: directly linked / clickable
+(Phone number: voluntary)
+(Further contact info / social media: voluntary)
+
+The imprint must be linked on every single page of the website.
+
+-->
+

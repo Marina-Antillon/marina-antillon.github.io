@@ -1,0 +1,10 @@
+<li> __Marina Antillon__, Neil J. Saad, Stephen Baker, Andrew J. Pollard, Virginia E. Pitzer. _Relationship between blood volume and diagnostic sensitivity of blood culture for typhoid and paratyphoid fever: a systematic review and meta-analysis._ The Journal of Infectious Diseases 218, no. suppl. 4 (2018): S255-S267.  
+  <a href="https://doi.org/10.1093/infdis/jiy471" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>
+
+
+

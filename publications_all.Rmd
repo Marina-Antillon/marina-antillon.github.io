@@ -1,0 +1,167 @@
+---
+title: "Publications"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{css, echo = FALSE}
+/* d-article ol {
+  display: block;
+  margin-bottom: 0em;
+} */
+
+d-article p {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 0em;
+}  
+
+.button1 {
+  background-color: #F2E8CF;
+  border: none;
+  color: #353839; 
+  padding: 2px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 14px;
+  margin: 4px 2px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color: #73A8A3; /* Green */
+  color: #F2E8CF;
+}
+
+```
+<ol>
+# Pre-print
+
+```{r child = "./pubs/2024_hat_he_first_wholedrccea.Rmd"}
+```
+
+```{r child = "./pubs/2024_hat_he_senior_vccost.Rmd"}
+```
+
+# Published
+
+## 2024
+
+```{r child = "./pubs/2024_tb_he-meta_senior_tbcostmeta.Rmd"}
+```
+  
+## 2023
+
+```{r child = "./pubs/2023_misc_misc_middle_repurposingknowhow.Rmd"}
+```
+
+```{r child = "./pubs/2023_hat_he_first_mandoulcea.Rmd"}
+```
+
+```{r child = "./pubs/2023_rsv_epi_first_burdensplines.Rmd"}
+```
+
+```{r child = "./pubs/2023_rsv_he_middle_ceakenyasouthafrica.Rmd"}
+```
+
+```{r child = "./pubs/2023_typhoid_he_middle_ceaepidemicmalawi.Rmd"}
+```
+
+```{r child = "./pubs/2023_typhoid_he_middle_ceamodelcomparison.Rmd"}
+```
+
+## 2022
+
+```{r child = "./pubs/2022_covid_epi_senior_women.Rmd"}
+```
+
+```{r child = "./pubs/2022_covid_he_senior_healthsystems.Rmd"}
+```
+
+```{r child = "./pubs/2022_hat_he_first_drc5hz.Rmd"}
+```
+
+```{r child = "./pubs/2022_hat_epi_middle_mandoulupdate.Rmd"}
+```
+
+```{r child = "./pubs/2022_typhoid_epi_middle_modelamr.Rmd"}
+```
+
+## 2021
+
+```{r child = "./pubs/2021_hat_he_first_framework.Rmd"}
+```
+
+```{r child = "./pubs/2021_hat_he_middle_kwamouthcea.Rmd"}
+```
+
+## 2020
+```{r child = "./pubs/2020_flu_epi_middle_fluforecast.Rmd"}
+```
+
+```{r child = "./pubs/2020_hat_epi_middle_mathinsightshat.Rmd"}
+```
+
+```{r child = "./pubs/2020_rsv_he_middle_rsvceacomp.Rmd"}
+```
+
+```{r child = "./pubs/2020_rsv_he_middle_rsvcea.Rmd"}
+```
+
+```{r child = "./pubs/2020_rsv_he_middle_rsvcea.Rmd"}
+```
+
+## 2019
+```{r child = "./pubs/2019_typhoid_he_middle_globalcea.Rmd"}
+```
+
+```{r child = "./pubs/2019_typhoid_comment_middle_vaxamr.Rmd"}
+```
+
+## 2018 
+```{r child = "./pubs/2018_typhoid_meta_first_bloodculture.Rmd"}
+```
+
+```{r child = "./pubs/2018_typhoid_meta_middle_seasonality.Rmd"}
+```
+
+```{r child = "./pubs/2018_typhoid_meta_middle_cfr.Rmd"}
+```
+
+## 2017
+```{r child = "./pubs/2017_cholera_modeling_middle_denmark1800s.Rmd"}
+```
+
+```{r child = "./pubs/2017_echinococcosis_epi_middle_trendsChile.Rmd"}
+```
+
+```{r child = "./pubs/2017_typhoid_he_first_5citiescea.Rmd"}
+```
+
+```{r child = "./pubs/2017_typhoid_meta_first_burden.Rmd"}
+```
+
+## 2016
+```{r child = "./pubs/2016_cholera_modeling_middle_haitioutbreak.Rmd"}
+```
+
+## 2014
+
+```{r child = "./pubs/2014_mendelians_geneticcounseling_middle_hutterites.Rmd"}
+```
+
+```{r child = "./pubs/2014_sleep_epi_first_sleeprecession.Rmd"}
+```
+
+## 2012
+
+```{r child = "./pubs/2012_hl_epi_middle_racialdisp.Rmd"}
+```
+
+</ol>

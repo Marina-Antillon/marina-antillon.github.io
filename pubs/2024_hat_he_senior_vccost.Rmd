@@ -1,0 +1,7 @@
+<li> Rian Snijders, Alexandra P.M. Shaw, Richard Selby, Inaki Tirados, Paul R Bessell, Alain Fukinsia, Erick Miaka, Fabrizio Tediosi, Epco Hasker, __Marina Antillon__. _The cost of sleeping sickness vector control in the Democratic Republic of the Congo._ medRxiv 2024.02.02.24302172.  
+<a href="https://doi.org/10.1101/2024.02.02.24302172" style="margin-left: 0.5em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-arrow-up-right-from-square"> </i> medXiv
+    </button>
+</a>
+</li>

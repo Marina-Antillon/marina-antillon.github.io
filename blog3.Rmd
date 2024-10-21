@@ -1,0 +1,9 @@
+---
+title: "Blog 3"
+author: 
+  - name: Marina Antillon
+date: "8/4/2024"
+site: distill::distill_website
+---
+
+Blog 3 placeholder.

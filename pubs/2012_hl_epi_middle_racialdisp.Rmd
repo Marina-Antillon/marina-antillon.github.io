@@ -1,0 +1,7 @@
+<li> Andrew M. Evans, __Marina Antillon__, Briseis Aschebrook-Kilfoy, and Brian C-H. Chiu. _Racial disparities in Hodgkin's lymphoma: a comprehensive population-based analysis._ Annals of Oncology 23, no. 8 (2012): 2128-2137.  
+  <a href="https://doi.org/10.1093/annonc/mdr578" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>

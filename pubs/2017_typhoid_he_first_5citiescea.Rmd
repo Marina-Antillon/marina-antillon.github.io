@@ -1,0 +1,7 @@
+<li> __Marina Antillon__, Joke Bilcke, A. David Paltiel, Virginia E. Pitzer. _Cost-effectiveness analysis of typhoid conjugate vaccines in five endemic low- and medium-income settings._ Vaccine 35, no. 27 (2017): 3506-3514.  
+  <a href="https://doi.org/10.1016/j.vaccine.2017.05.001" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>

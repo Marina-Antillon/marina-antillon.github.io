@@ -1,0 +1,61 @@
+---
+title: "Resources"
+author: "Marina Antillon"
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+This is a list of things I have found useful. Count this as a mild endorsement.
+
+**Use of these resources does not guarantee correct results. If in doubt, contact your institutional statistical, epidemiology, or health economic specialist.**
+
+You can [contact me](contact me), and while I aim to answer all questions, I cannot guarantee a timely response.
+
+# Statistics
+  + German Rodriguez at Princeton: https://grodri.github.io
+  + Reporting ANOVA and t-test results:  
+    - https://doi.org/10.7554/eLife.36163.001 (see boxes)  
+    - SAMPL guidelines
+  
+# Epidemiology
+  + Leon Gordis book
+  + Any other articles
+  
+## Disease transmission modeling
+This is the field that motivated me since undergrad and took me to grad school. This is to be brief, but I have a lot of thoughts on this.   
+  + MIDAS network  
+  + SIMID school  
+  + Yale Summer School  
+  + UAntwerp course  
+  + Links: AAking, MFIID course in London: https://sbfnk.github.io/mfiidd/index.html
+  
+# Health economics + decisions under uncertainty
+ + Briggs book
+ + Some articles
+ 
+# Costing
+  + Articles
+  
+# R
+  + R blogs
+  + Rmarkdown books
+  
+# Stata 
+  + Stata for health researchers
+  + This is a duplicate, but here too German Rodriguez's site deserves mention: https://grodri.github.io
+
+# Other
++ Teaching individuals with learning differences (from the University of Basel): [in English](https://tales.nmc.unibas.ch/en/barrierefreiheit-im-digitalen-unterricht-und-studium-33/), [in German](https://tales.nmc.unibas.ch/de/barrierefreiheit-im-digitalen-unterricht-und-studium-33/)
++ Belgian-American Education Foundation fellowship (I will write about my experience with the program when I get a chance): [BAEF](https://baef.be/)
+  - Fellowships to do one* year of graduate study or research exchange for Americans (citizens or permanent residents) and Beligians (Nationals). (*Two years for Belgians seeking an MBA in the US).
++ Living in Switzerland
+  - A blog I often found useful about the Basel area: [Life in Basel](https://www.lifeinbasel.com)
+  - Really comprehensive guide for Switzerland in general: [ch.ch](https://www.ch.ch/en/)
+  - Guide to moving to Basel-land specifically: [Hallo Basel-land](https://www.hallo-baselland.ch/)
+  - Comparison shopping API in Switzerland: [Comparis](https://en.comparis.ch)
+    * I am linking to the English site, but on the top right you can switch to other languages.
++ Task management
++ Why quitting is sometimes the right thing to go

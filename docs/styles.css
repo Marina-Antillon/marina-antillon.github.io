@@ -1,0 +1,597 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Mate+SC&family=Mate:ital@0;1&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Noto+Sans+Math&family=Roboto+Slab:wght@100..900&family=Sacramento&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Trocchi&family=Zen+Maru+Gothic:wght@400;700&display=swap');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&display=swap'); /* Montagu Slab */
+/* @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap'); /* Bitter */
+/* @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap'); /* Courier Prime */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Mate:ital@0;1&display=swap'); /* Mate */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap'); /* Mate SC */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap'); /* Roboto Mono */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap'); /* Roboto Slab */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap'); /* Sacramento */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap'); /* Titillium */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap'); /* Trocchi */ 
+/* @import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;700&display=swap'); /* Zen Maru */ 
+
+
+body {
+  font-family: "Titillium Web", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFF0;        /* #404040*/
+  position: relative;
+  background-color: #353839;      /* {{ site.page-col }}; */
+}
+
+d-title h1 {
+  font-family: 'Mate SC', serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 400;
+  font-style: normal;
+  font-variant: small-caps;
+  font-size: 50px;
+  color: #D9BF77; /* Olive Green */
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+d-title p {
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  line-height: 1em;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+/* this is what I consider body text */
+d-article {
+    font-family: "Titillium Web", sans-serif;
+    font-style: normal;
+    text-transform: none;  /*default is uppercase*/
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFF0;
+    padding-top: 2.5rem;
+    padding-bottom: 30px;
+    /* border-top: solid; */
+    /* border-bottom: solid; */ 
+  }
+  
+.index-title { /* I removed h1 from here. Not sure if this was right */
+  font-family: 'Mate SC', serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 400;
+  font-style: normal;
+  font-variant: small-caps;
+  font-size: 75px;
+  text-align: center;
+  color: #FFFFF0;
+  background-color: #353839;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  line-height: 1;
+  border-bottom: 0; /*same as default h2*/
+  padding-bottom: 1rem; 
+}
+
+d-article h1 {
+  font-family: 'Mate SC', serif;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: 400;
+  font-size: 175%;
+  color: #F2E8CF; /* almond color */
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #F2E8CF;
+  line-height: 1;
+  padding-bottom: 0.5rem;
+}
+
+d-article h2 {
+  font-family: "Mate", serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #F2E8CF; /* almond color */
+  font-size: 150%;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+  border-bottom: none;
+  line-height: 1;
+  padding-bottom: 0.5rem;
+}
+
+d-article h3 {font-size: 125%;}
+d-article h4 {font-size: 100%;}
+
+/* Nav bar */
+.distill-site-header { 
+  padding: 10px 0px;
+  font-family: 'Mate SC', serif;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: 700;
+  font-size: 22px;
+  
+}
+
+.distill-site-header .logo img{
+  max-height: 30px; /* Makes logo bigger, default was 20px */
+}
+
+.distill-site-header .title{ 
+  font-family: 'Mate SC', serif;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.distill-site-nav {
+  color: #FFFFF0;
+  background-color: #26282A; /* slate */
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+/* This is so that the navbar is always at the stop */
+.headroom--unpinned {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures the navbar stays on top of other content */
+    background-color: #26282A; /* slate; Ensure background is the same as before */
+}
+
+
+/* for the blog list */
+.distill-site-nav a {
+  color: #FFFFF0;
+  background-color: #26282A; /* slate */
+  /* text-decoration: none; */ 
+}
+
+/* for the blog list */
+.distill-site-nav a:hover {
+  color: #FFFFF0;
+  background-color: #26282A; /* slate */
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures the navbar stays on top of other content */
+    background-color: #26282A; /* Ensure background is the same as before */
+}
+
+/* for some reason, it needs this specification separately */ 
+/* this is for each blog entry link */ 
+.nav-dropdown-content {
+    color: #F3E5AB;
+    padding: 0;
+    background-color: #26282A;
+    font-family: "Trocchi";
+    font-variant: normal;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    z-index: 2;
+  }
+  
+/* right now , the only thing it serves is that the drop down on the header (Blog) stays the same color as the other headers */
+.nav-dropdown .nav-dropbtn {
+    color: #FFFFF0;
+    padding-top: 0;
+    background-color: #26282A;
+    font-family: 'Mate SC', serif;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 400;
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin: 0;
+    margin-top: 0;
+    z-index: 2;
+  }
+
+/* for header sections of the dropdown */ 
+/* It's important to specify the content thing before the header */ 
+/* I need both here so that the dropdown headers stay yellow */ 
+.nav-dropdown-content .nav-dropdown-header { 
+    border-spacing: 0;
+    font-family: 'Mate SC', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-variant: small-caps;
+    display: block; /* original: block */ 
+    padding: 5px 10px; /* indents the headers a bit */
+    padding-bottom: 0;
+    font-size: 18px;
+    color: #F3E5AB;
+    background-color: #26282A;
+    white-space: nowrap;
+    margin: 0;
+    margin-top: 0;
+  }
+
+hr.section-separator {
+  border: none;
+  border-top: none;
+}   
+    
+/* for the author block */ 
+d-byline {
+    padding: 6px;
+    border-top: solid ;
+    border-top-color: #F2E8CF;
+    border-bottom: solid ;
+    border-bottom-color: #F2E8CF;
+    border-width: 0.5px 0;
+}
+
+d-byline .byline {
+    padding-bottom: 12px;
+}
+
+d-byline h3 {
+    font-family: "Titillium Web", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #D9BF77;
+    text-transform: uppercase;
+    margin: 12px 0;
+}
+
+d-byline p.author a.name {
+    font-family: "Titillium Web", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFF0;
+}
+
+/* specify date of publication */ 
+d-byline p {
+    font-family: "Titillium Web", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFF0;
+}
+
+/* For the TOC */
+.d-contents nav h3 {
+    font-family: 'Mate SC', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-variant: small-caps;
+    font-size: 22px;
+    color: #F3E5AB;
+}
+
+.d-contents nav a {
+  color:  #F2E8CF; /* almond color */
+  font-size: 18px;
+}
+
+/* remove underline for TOC */
+.d-contents nav a:hover {
+    text-decoration: none;
+}
+
+
+.distill-site-footer { 
+    font-family: 'Mate', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px; 
+    font-variant: normal;
+    color: #FFFFF0;
+    padding: 12px 10px;
+    background-color: #26282A;
+  } 
+
+/* sidebar on blog page with category listing; I don't have this yet. */
+
+.posts-with-sidebar .posts-sidebar {
+  float: right;
+  width: 10%;    /* default 20, made narrow */
+  margin-top: 60px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+/* attempt to make result not so wide/spacious */ 
+.posts-with-sidebar .posts-list {
+  width: 66%;
+  margin-left: 11%;
+}
+
+.posts-sidebar {
+  font-size: 75%;
+  margin-right: 10%;
+}
+
+
+/* thumbnail images on preview
+.thumbnail {
+    padding: 0px!important;
+    margin: 0px!important;
+    max-width: 10%!important;
+    height: auto!important;
+    vertical-align: text-top!important;
+}
+ */
+
+
+/* input R code */ 
+d-article .sourceCode span {
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: #73A8A3; /* pine green */
+  font-size: 100%;
+}
+
+/* output of R code */
+d-article .sourceCode, d-article pre code {
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: #73A8A3; /* pine green */
+  font-size: 100%;
+}
+
+d-article pre {
+  background-color: #666362;
+  color: #FFFFF0;
+}
+
+/* code results/output; don't know what this is for atm */
+text-output {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: #F2E8CF;
+}
+
+/* latex */
+.math {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  color: #F2E8CF;  
+  font-style: normal;
+  font-size: 90%;
+}
+
+
+/* link effects; appendix apply to footnote return links */
+
+/*remove old line*/
+d-article a:hover {
+  text-decoration: none;
+  border-bottom: none;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+
+/* this is the section where the "corrections" notice is */ 
+d-appendix { 
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: #D9BF77;
+  font-size: 16px;
+  background-color: inherit;
+  border-top: none;
+  margin: 0;
+  padding: 20;
+}
+
+d-appendix h3 { 
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #D9BF77;
+  font-size: 16px;
+  background-color: inherit;
+  border-top: none;
+  margin: 5;
+}
+
+/* add new effects */
+p a, aside a, li a, d-appendix a, a.footnote-backlink {
+    color: #73A8A3;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size .4s ease;
+    border-bottom: 0px solid;
+}
+
+p a {
+  /* text-decoration: underline */
+  color: #F3E5AB;
+}
+
+p a:after, aside a:after, li a:after, d-appendix a:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 1.25px;
+  background: #F3E5AB;
+  transition: width .3s;
+}
+
+p a:hover::after, aside a:hover::after, li a:hover::after, d-appendix a:hover::after {
+  width: 100%;
+  transition: width .3s;
+ }
+
+/* for twitter etc icon links */
+.social-icon {
+  color: #fffff0;
+  background-image: none;  /* remove hover line*/
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: background-size .4s ease;
+  border-bottom: 0px solid;
+}
+
+/* orcid icon is not loaded to rmarkdown in the version I am using, so call it here "by hand" */ 
+.fa.fa-orcid{
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+}
+
+/* NOT WORKING, I don't know why */ 
+.fa.fa-google-scholar{
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+}
+
+d-footnote-list a.footnote-backlink {
+    color:  #F2E8CF; /* !important; otherwise some inline injection will occur*/
+    padding-left: 0.5em;
+}
+
+.categories li > a:hover {
+  border-bottom: none; /* !important */
+}
+
+/* Change bullets */
+ul li {
+    margin: 5px;
+}
+
+ul > li::marker {
+  font-size: 1.125em;
+  color: #F2E8CF;
+}
+
+/* find symbols here: https://symbl.cc/en/unicode-table/#dingbats */ 
+ul {
+    list-style-type: none;
+}
+
+/* First level */
+ul li::before {
+    content: "\25C6"; /* Unicode for a black diamond */
+    margin-right: 10px; /* Adds spacing between symbol and text */
+    color: #F2E8CF;
+}
+
+/* Second level*/
+ul ul li::before {
+    content: "\2022"; /* Unicode for a filled disc */
+    margin-right: 10px;
+}
+
+/* Third level*/
+ul ul ul li::before {
+    content: "\2192"; /* Unicode for an arrow pointing right */
+    margin-right: 10px;
+}
+
+/* text highlights */
+.emph, em {
+  color: #D9BF77;  /*#ff5500 #D14300 #D9BF77*/ 
+  font-style: italic;
+  font-weight: 700;
+}
+
+/* don't do color for references */
+.references em {
+  color: #fffff0;
+  font-style: normal;
+  font-weight: 500;
+}
+
+strong {
+  color: #D9BF77;  /*#ff5500 #D14300 #D9BF77*/ 
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* pack func and objclass colors initially come from hcl(seq(90,360, length.out=4), c=80, l=80); redone for contrast*/
+.pack {
+  color: #F2E8CF;
+  font-weight: 400;
+}
+
+.func {
+  color: #F2E8CF;   
+  font-weight: 400;
+}
+
+.objclass {
+  color:  #F2E8CF;  /*#AAB400 #4daf4a; #FFC5D0*/
+  font-weight: 400;
+}
+
+/* object/class via inline code */
+p code {
+  color: #73A8A3;
+}
+
+
+/* figures and tables */
+
+d-article table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+/* .gt_table {
+  background-color: transparent !important; /*ignored*/
+/*} */
+
+/*.gt_col_headings{
+  background-color: #ffffff;
+} */
+/* .gt_row {
+  background-color: transparent !important; /*ignored*/
+/* } */
+
+/* add spacing for figs and tables, so text and other figs/tables don't 
+start right up at their border */
+.l-body {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Search bar */
+
+/* .algolia-autocomplete {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: sub;
+    background-color: #fffff8;
+    color: #15b7d6;             /* Color of text in drop-down*/
+    /* padding: 6px;
+    padding-top: 8px;
+    padding-bottom: 0;
+    border-radius: 6px;
+    border: 0px #15b7d6 solid;  /* Removed border */
+    /* width: 180px;
+} */

@@ -1,0 +1,32 @@
+<li> __Marina Antillon__, Ching-I Huang, Samuel A. Sutherland, Ronald E. Crump, Paul R. Bessell, Alexandra P.M. Shaw, Iñaki Tirados, Albert Picado, Sylvain Biéler, Paul E. Brown, Philippe Solano, Severin Mbainda, Justin Darnas, Xia Wang-Steverding, Emily H. Crowley, Mallaye Peka, Fabrizio Tediosi, Kat S. Rock. _Health economic evaluation of strategies to eliminate *gambiense* human African trypanosomiasis in the Mandoul disease focus of Chad._ PLoS Neglected Tropical Diseases, no. 7 (2023): e0011396.  
+<a href="https://doi.org/10.1371/journal.pntd.0011396" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+</a>
+<a href="https://hatmepp.warwick.ac.uk/MandoulCEA/v2/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-laptop"> </i> Dashboard/GUI
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/chad/mandoul_cea_summary_eng.pdf)" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (EN)
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/chad/mandoul_cea_summary_fre.pdf)" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-list"> </i> Summary (FR)
+    </button>
+</a>
+<a href="https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/projectresults/chad/220915_mandoul_cea_infographic_en.pdf" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-pen-ruler"> </i> Infographic
+    </button>
+</a>
+<a href="https://osf.io/bjxwn/" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-code"> </i> Code
+    </button>
+</a>
+</li>

@@ -1,0 +1,10 @@
+<li> Neil J. Saad, Victoria D. Lynch, __Marina Antillon__, Chongguang Yang, John A. Crump, and Virginia E. Pitzer. _Seasonal dynamics of typhoid and paratyphoid fever._ Scientific Reports 8, no. 1 (2018): 6870.    
+  <a href="https://doi.org/10.1038/s41598-018-25234-w" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+</li>
+
+
+

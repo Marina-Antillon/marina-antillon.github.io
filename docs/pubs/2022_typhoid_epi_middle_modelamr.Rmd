@@ -1,0 +1,17 @@
+<li> Ruthie Birger, __Marina Antillon__ Joke Bilcke, Christiane Dolecek, Gordon Dougan, Andrew Pollard, Kathleen M. Neuzil, Isabel Frost, Ramanan Laxminarayan, and Virginia E. Pitzer. _Estimating the Impact of Vaccination on Antimicrobial-Resistant Typhoid Fever in Gavi-73 Countries._ The Lancet Infectious Diseases 22 (2022): 679–91.   
+  <a href="https://doi.org/10.1016/S1473-3099(21)00627-7" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-feather"> </i> Publication
+    </button>
+  </a>
+  <a href="https://doi.org/10.1016/S1473-3099(21)00678-2" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-comment"> </i> Comment
+    </button>
+  </a>
+  <a href="https://github.com/vepitzer/typhoidAMR" style="margin-left: 0.25em" target="_blank">
+    <button class="button1">
+      <i class="fa-solid fa-code"> </i> Code
+    </button>
+  </a>
+</li>
