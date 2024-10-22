@@ -3,10 +3,22 @@ title: "Publications & Press"
 # bibliography: AntillonWorksORCID7Sep2024.bib
 # nocite: '@*'
 ---
-# Select
 
 # All
 - For all publications in reverse chronological order [click here](publications_all.html), including related summaries, commentaries, press releases, and code.
+
+# Select
+
+```{r child = "./pubs/2024_hat_he_first_wholedrccea.Rmd"}
+```
+```{r child = "./pubs/2023_rsv_epi_first_burdensplines.Rmd"}
+```
+```{r child = "./pubs/2021_hat_he_first_framework.Rmd"}
+```
+```{r child = "./pubs/2019_typhoid_he_middle_globalcea.Rmd"}
+```
+```{r child = "./pubs/2017_typhoid_meta_first_burden.Rmd"}
+```
 
 <!-- # Subsets -->
 <!-- Do this with buttons? -->

@@ -4,7 +4,7 @@ title: "Services"
 
 While the strength of Antillon Insights lies in Public Health sector, in particular working in infectious diseases in resource-constrained settings, I am open to work in public health (all disease areas), epidemiology, health economics and outcomes research (HEOR), and the social sciences. The following services are offered to any sector and regardless of disease area:
 
-# Research
+# Analysis
 - Data science - descriptive analysis, regression analysis, and predictive modeling.
 - Disease simulations - dynamic (SIR-type, ODE-based) models, Markov models, and probability tree models. 
 - Decision analysis - cost modeling or cost-effectiveness analyses.  

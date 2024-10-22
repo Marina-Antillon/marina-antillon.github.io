@@ -20,19 +20,19 @@ navbar:
     href: publications.html
   - text: "Contact"
     href: contact.html
-  - text: "Blog"
-    menu: 
-    - text: "Category A"
-    - text: "Resources"
-      href: resources.html
-    - text: "Blog 1"
-      href: blog1.html
-    - text: "Blog 2"
-      href: blog2.html
-    - text: '--------------'
-    - text: "Category B"
-    - text: "Blog 3"
-      href: blog3.html
+  # - text: "Blog"
+  #   menu: 
+  #   - text: "Category A"
+  #   - text: "Resources"
+  #     href: resources.html
+  #   - text: "Blog 1"
+  #     href: blog1.html
+  #   - text: "Blog 2"
+  #     href: blog2.html
+  #   - text: '--------------'
+  #   - text: "Category B"
+  #   - text: "Blog 3"
+  #     href: blog3.html
   right:
   - href: https://github.com/marina-antillon
     icon: fa-github

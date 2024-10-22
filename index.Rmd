@@ -4,7 +4,10 @@ title: "Antillon Insights"
 
 Antillon Insights leverages sophisticated simulation expertise for a simple purpose: to make more reasoned, data-driven decisions for a better world. 
 
-```{r, fig.align='center', out.width='60%', echo=F}
-knitr::include_graphics("./images/gears.png")
-```
+<!-- ```{r, fig.align='center', out.width='60%', echo=F} -->
+<!-- knitr::include_graphics("./images/gears.png") -->
+<!-- ``` -->
 
+For a description of my professional activities, see [services](services.html).  
+For inquiries [contact me](contact.html).  
+Read [about me](about.html).  
