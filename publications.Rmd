@@ -4,6 +4,41 @@ title: "Publications & Press"
 # nocite: '@*'
 ---
 
+```{css, echo = FALSE}
+/* d-article ol {
+  display: block;
+  margin-bottom: 0em;
+} */
+
+d-article p {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 0em;
+}  
+
+.button1 {
+  background-color: #F2E8CF;
+  border: none;
+  color: #353839; 
+  padding: 2px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 14px;
+  margin: 4px 2px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color: #73A8A3; /* Green */
+  color: #F2E8CF;
+}
+
+```
+
 # All
 - For all publications in reverse chronological order [click here](publications_all.html), including related summaries, commentaries, press releases, and code.
 
