@@ -1,7 +1,5 @@
 ---
 title: "Publications & Press"
-# bibliography: AntillonWorksORCID7Sep2024.bib
-# nocite: '@*'
 ---
 
 ```{css, echo = FALSE}
