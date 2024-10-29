@@ -2,18 +2,19 @@
 title: "Services"
 ---
 
-While my strengths lie in the Public Health sector, particularly in infectious diseases in resource-constrained settings, I am open to work in epidemiology (all disease areas), health economics and outcomes research (HEOR), and the social or environmental sciences. The following services are offered to any sector and regardless of disease area:
+With a strong foundation in the Public Health sector, particularly in infectious diseases in resource-constrained settings, I am excited to explore opportunities in epidemiology (across all disease areas), health economics and outcomes research (HEOR), as well as social an environmental sciences. I am pleased to offer the following services across a range of sectors, regardless of disease area:
 
 # Analysis
 - Data science - descriptive analysis, regression analysis, and predictive modeling.
-- Disease simulations - dynamic (SIR-type, ODE-based) models, Markov models, and probability tree models. 
+- Disease simulations - transmission models (SIR-type, ODE-based), Markov models, and probability tree models. 
 - Decision analysis - cost modeling or cost-effectiveness analyses.  
 
 # Writing & Editing
 - Editorial help for scientific publication or marketing materials with substantial scientific matter in the realm of public health or statistics.
   + Languages: English or Spanish.
 
-# Education
+# Training & Educational Support
 - Seminars on statistical methods, epidemiological concepts, or cost-effectiveness analysis (also known as health technology assessment).
-  + Languages: English or Spanish. With aid, I have assembled teaching and informational material in French and co-taught classes alongside a translator.
+  + Languages: English or Spanish. 
+  + With aid, I have assembled teaching and informational material in French and co-taught classes alongside a translator.
 - Supplemental mentorship of students undertaking a thesis or dissertation. While most mentorship ought to lie with Professors/institutional promoters, I can be a supplemental mentor in areas where the primary supervisor or promoter has less experience.
