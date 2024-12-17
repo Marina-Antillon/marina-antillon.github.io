@@ -6,9 +6,9 @@ description: |
 
 I am an analyst at the intersection of public health, data sciences, and decision analysis. I have worked extensively in simulation-based health economics of strategies to control and eliminate infectious diseases. 
 
-I have a strong focus on transmission and Markov models of disease, as well as decision-making under probabilistic and structural uncertainty. My expertise spans multiple disease areas, including typhoid fever, respiratory syncytial virus (RSV), and human African trypanosomiasis (HAT), with additional experience in tuberculosis, cholera, and sleep behaviors. Furthermore, I bring valuable experience in teaching small seminars on statistics and health economics.
+My methodological interests lie in transmission and Markov models of disease, as well as decision-making under probabilistic and structural uncertainty. I have disease-area expertise in typhoid fever, respiratory syncytial virus (RSV), and human African trypanosomiasis (HAT), as well as experience in tuberculosis, cholera, and sleep behaviours. I also have experience teaching small seminars in statistics and health economics.
 
-I am eager to contribute to public health across all disease areas, with a particular focus on epidemiology and health economics and outcomes research (HEOR). Additionally, I am highly motivated to apply my skills to data analysis in social and environmental phenomena.
+I am open to work in public health (all disease areas), in particular in epidemiology and health economics and outcomes research (HEOR). If my methodological experience can be of use, I would also be interested in working on data analysis of social and environmental phenomena.
 
 For a description of my professional activities, see [services](services.html).  
 For inquiries [contact me](contact.html).  
